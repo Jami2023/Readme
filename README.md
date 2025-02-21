@@ -5,9 +5,7 @@ Hi there! I'm a passionate programmer with experience in C, C++, and Java. My in
 Cybersecurity: Ethical hacking, penetration testing, and securing applications.
 App Development: Crafting user-friendly and efficient mobile and desktop applications.
 
-📫 Connect With Me
-Linkedin:www.linkedin.com/in/farhan-israq-jami-5069a6270
-
-Email:israqjami@gmai.com
- 
- 🚀 Happy Coding! 🚀
+📫 Connect With Me:
+  Linkedin:www.linkedin.com/in/farhan-israq-jami-5069a6270
+  Email:israqjami@gmai.com
+  🚀 Happy Coding! 🚀
