@@ -7,5 +7,7 @@ App Development: Crafting user-friendly and efficient mobile and desktop applica
 
 📫 Connect With Me
 Linkedin:www.linkedin.com/in/farhan-israq-jami-5069a6270
+
 Email:israqjami@gmai.com
+ 
  🚀 Happy Coding! 🚀
