@@ -6,5 +6,6 @@ Cybersecurity: Ethical hacking, penetration testing, and securing applications.
 App Development: Crafting user-friendly and efficient mobile and desktop applications.
 
 📫 Connect With Me
-Let's connect and collaborate! Feel free to reach out if you share similar interests or have exciting projects in mind.
+Linkedin:www.linkedin.com/in/farhan-israq-jami-5069a6270
+Email:israqjami@gmai.com
  🚀 Happy Coding! 🚀
